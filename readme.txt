@@ -42,3 +42,9 @@ When the project is completed, commit the final changes, sync all pull requests,
 
 ###### List group responsiblities below:
 ###### Provide name and approxamite line numbers where each person wrote their code
+
+
+
+
+
+With different schedules, We both made our own code and then merged the two together to create a finished and functional code.
